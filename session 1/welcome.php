@@ -47,10 +47,10 @@
     <div class="container">
       <h1>Welcome to INS3064</h1>
       <?php
-      $name = "Trần Quốc Hiệu";
-      $studentId = "22070468";
+      $name = "Abdurraheem chawai";
+      $studentId = "23071326";
       $class = "INS306402";
-      $email = "quochieuu1803@gmail.com";
+      $email = "abdurraheemchawai@gmail.com";
       $date = date("l, F j, Y");
       $time = date("H:i:s");
 
